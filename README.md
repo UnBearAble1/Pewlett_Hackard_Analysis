@@ -8,7 +8,7 @@ The purpose of this analysis is to identify all of the current employees that ar
 
 ### Employess eligible for retirement
 
-![Retirement Eligibility by Title](https://github.com/UnBearAble1/Pewlett_Hackard_Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/retiring_titles.csv)
+[Retirement Eligibility by Title](Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/Data/retiring_titles.csv)
 
 
 
